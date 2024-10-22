@@ -44,3 +44,8 @@ Ao adotar a prototipagem de baixa fidelidade, o iVerde poderá não apenas otimi
 - **Marketing e Promoções**:
   - Uso de campanhas de marketing digital e redes sociais para promover o negócio.
   - Promoções sazonais e descontos para novos assinantes.
+
+# Melhorias 
+[] Criar um Favorite Icon 
+  -> https://www.favicon-generator.org/
+[] Adicionar uma url para as imagens da cesta de produtos
